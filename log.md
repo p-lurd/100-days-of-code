@@ -29,7 +29,7 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
-### Day 0: February 30, 2016
+### Day 0: March 29, 2024
 
 **Today's Progress**: Started working on react a while ago
 **Thoughts**: Nothing special, still getting used to the setting up
