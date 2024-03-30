@@ -34,3 +34,8 @@
 **Today's Progress**: Started working on react a while ago
 **Thoughts**: Nothing special, still getting used to the setting up
 **Link(s) to work**: repo is private for now
+
+### Day 1: March 30, 2024
+
+**Today's Progress**: Understanding useCae and React dev tools
+**Link(s) to work**: repo is private for now
