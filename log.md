@@ -39,3 +39,9 @@
 
 **Today's Progress**: Understanding useCae and React dev tools
 **Link(s) to work**: repo is private for now
+
+
+### Day 2: March 31, 2024
+
+**Today's Progress**: Started learning the use of props in React
+**Thoughts**: Interesting to see basic knowledge of javascript coming to use here. cheers
