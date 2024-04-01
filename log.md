@@ -49,4 +49,4 @@
 ### Day 3: April 1, 2024
 
 **Today's Progress**: Started learning the use of useEffect and passing functions as probs
-**Thoughts**: ....... still easy to understand i guess, considering creating a branch of my previous project and use the api I built previously 
+**Thoughts**: ....... still easy to understand i guess, considering creating a branch of my previous project and use the api I built previously. Meanwhile(generally), don't use a useState in a useEffect to prevent an infinite loop
