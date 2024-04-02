@@ -50,3 +50,8 @@
 
 **Today's Progress**: Started learning the use of useEffect and passing functions as probs
 **Thoughts**: ....... still easy to understand i guess, considering creating a branch of my previous project and use the api I built previously. Meanwhile(generally), don't use a useState in a useEffect to prevent an infinite loop
+
+### Day 4: April 2, 2024
+
+**Today's Progress**: fetching data with useEffect and introduction to constional templating in react
+**Thoughts**: learn more about fetch api...........assignment to myself
