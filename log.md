@@ -55,3 +55,9 @@
 
 **Today's Progress**: fetching data with useEffect and introduction to constional templating in react
 **Thoughts**: learn more about fetch api...........assignment to myself
+
+
+### Day 5: April 3, 2024
+
+**Today's Progress**: still on fetch api
+**Thoughts**: fetch api
