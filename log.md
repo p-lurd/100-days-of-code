@@ -61,3 +61,8 @@
 
 **Today's Progress**: still on fetch api
 **Thoughts**: fetch api
+
+### Day 6: April 4, 2024
+
+**Today's Progress**: still on fetch api
+**Thoughts**: handling fetch errors
