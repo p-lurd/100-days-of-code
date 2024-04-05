@@ -66,3 +66,9 @@
 
 **Today's Progress**: still on fetch api
 **Thoughts**: handling fetch errors
+
+
+### Day 7: April 5, 2024
+
+**Today's Progress**: custom hooks
+**Thoughts**: always start with "use" eg useFetch, else react will not recognise it
