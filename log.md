@@ -72,3 +72,8 @@
 
 **Today's Progress**: custom hooks
 **Thoughts**: always start with "use" eg useFetch, else react will not recognise it
+
+### Day 8: April 6, 2024
+
+**Today's Progress**: routing in react
+**Thoughts**: introduction to routing in react
