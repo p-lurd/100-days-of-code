@@ -77,3 +77,9 @@
 
 **Today's Progress**: routing in react
 **Thoughts**: introduction to routing in react
+
+
+### Day 9: April 7, 2024
+
+**Today's Progress**: revision
+**Thoughts**: revising what has been learnt so far. If react is rendering on browser only, how does it get the next page, waiting for data from the server delays it anyways, does that not defeat the purpose of react?
