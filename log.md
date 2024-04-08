@@ -83,3 +83,9 @@
 
 **Today's Progress**: revision
 **Thoughts**: revising what has been learnt so far. If react is rendering on browser only, how does it get the next page, waiting for data from the server delays it anyways, does that not defeat the purpose of react?
+
+
+### Day 10: April 8, 2024
+
+**Today's Progress**: switch  route
+**Thoughts**: .....feeling lazy ........just fumbling around routing, react matches the first look alike. Just like the mongoDb 'Search' works.........and the redirects to the route. That is why this is important.
