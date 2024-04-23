@@ -89,3 +89,9 @@
 
 **Today's Progress**: switch  route
 **Thoughts**: .....feeling lazy ........just fumbling around routing, react matches the first look alike. Just like the mongoDb 'Search' works.........and the redirects to the route. That is why this is important.
+
+
+### Day 11: April 23, 2024
+
+**Today's Progress**: building a project based on the course... using "exact" while routing
+**Thoughts**: just finished an exam and I am working on my react project already. cheers
