@@ -95,3 +95,8 @@
 
 **Today's Progress**: building a project based on the course... using "exact" while routing
 **Thoughts**: just finished an exam and I am working on my react project already. cheers
+
+### Day 12: April 24, 2024
+
+**Today's Progress**: creating  and uploading a blog post
+**Thoughts**: ............thoughtless
